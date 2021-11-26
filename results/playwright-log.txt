@@ -1,0 +1,17 @@
+{"level":30,"time":"2021-11-26T12:12:32.693Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Listening on 53274"}
+{"level":30,"time":"2021-11-26T12:12:33.681Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-26T12:12:33.681Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Trace file: "}
+{"level":30,"time":"2021-11-26T12:12:33.697Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Changed active context"}
+{"level":30,"time":"2021-11-26T12:12:33.701Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-26T12:12:33.927Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-26T12:12:33.927Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Changed active page"}
+{"level":30,"time":"2021-11-26T12:12:44.066Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Retrieved text for element xpath=//*[@id='item_2_title_link']/div containing Sauce Labs Onesie"}
+{"level":30,"time":"2021-11-26T12:12:44.089Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Retrieved text for element xpath=//*[@id='item_3_title_link']/div containing Test.allTheThings() T-Shirt (Red)"}
+{"level":30,"time":"2021-11-26T12:12:49.484Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Retrieved text for element xpath=//*[@id='item_2_title_link']/div containing Sauce Labs Onesie"}
+{"level":30,"time":"2021-11-26T12:12:49.498Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Retrieved text for element xpath=//*[@id='item_3_title_link']/div containing Test.allTheThings() T-Shirt (Red)"}
+{"level":30,"time":"2021-11-26T12:12:50.593Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Changed active context"}
+{"level":30,"time":"2021-11-26T12:12:50.594Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-26T12:12:50.594Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Changed active page"}
+{"level":30,"time":"2021-11-26T12:12:50.621Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Changed active context"}
+{"level":30,"time":"2021-11-26T12:12:50.621Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Changing current active page"}
+{"level":30,"time":"2021-11-26T12:12:50.622Z","pid":19676,"hostname":"DESKTOP-IV6GGCO","msg":"Changed active page"}
