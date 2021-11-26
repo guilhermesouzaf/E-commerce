@@ -54,7 +54,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 2. Faça um clone :
 
 ```sh
-  $ git clone 
+  $ git clone https://github.com/guilhermesouzaf/E-commerce.git
 ```
 
 3. Executando a Aplicação:
@@ -62,7 +62,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```sh  
 # Inicie a Aplicação
   
-  $ cd Busca_Magazineluiza
+  $ cd E-commerce
   
   $ robot -d ./results  ./tests/Web.robot
  
