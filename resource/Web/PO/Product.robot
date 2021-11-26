@@ -16,6 +16,7 @@ ${first_name_aux}                  Teste
 ${last_name_aux}                   Automatizado
 ${postal_code_aux}                 59275000
 ${sort_aux}                        lohi
+${number_products_aux}             2
     
 #Inputs
 ${first_name_input}                data-test=firstName
@@ -36,6 +37,7 @@ ${finish_button}                   data-test=finish
 
 ##Icons
 ${cart_icon}                        id=shopping_cart_container
+${cart_counter}                     xpath=//*[@class='shopping_cart_link']
 
 *** Keywords ***
 
@@ -49,7 +51,8 @@ Search
     Wait For Elements State        ${product_tshirt_button}       visible    10
     Click                          ${product_tshirt_button}  
     Wait For Elements State        ${remove_labsonesie_button}    visible    10
-    Wait For Elements State        ${remove_tshirt_button}        visible    10      
+    Wait For Elements State        ${remove_tshirt_button}        visible    10  
+    Get Text                       ${cart_counter}                contains   ${number_products_aux}    
 
 Finish Order
     
